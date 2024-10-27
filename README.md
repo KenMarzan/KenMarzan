@@ -9,6 +9,7 @@
 -C++
 -Git
 -Npm
+-Tailwind
 - 📫 You can reach me thru my email: marzanken232@gmail.com ...
 
 <!---
