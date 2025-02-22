@@ -10,6 +10,11 @@
 -Git
 -Npm
 -Tailwind
+-SQL
+-React Native
+-MongoDB
+-Express
+-Nodejs
 - 📫 You can reach me thru my email: marzanken232@gmail.com ...
 
 <!---
