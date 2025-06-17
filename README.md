@@ -19,7 +19,7 @@
 <p align="left">
   <a href="https://dev.to/kenmarzan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kenmarzan" height="30" width="40"/></a>
 
-   <a href="=https://web.facebook.com/ken.marzan.7" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/128457366?v=4" alt="kenmarzan" height="30" width="40"/></a>
+   <a href="=https://web.facebook.com/ken.marzan.7" target="_blank"><img align="center" src="https://c7.uihere.com/files/819/241/177/social-media-computer-icons-facebook-instagram-logo.jpg" alt="kenmarzan" height="30" width="40"/></a>
 </p>
 
 ---
