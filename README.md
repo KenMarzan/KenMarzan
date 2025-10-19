@@ -16,15 +16,26 @@
 ## 🔹 Connect with Me
 
 <p align="center">
+  <div>
   <a href="https://dev.to/kenmarzan](https://www.linkedin.com/in/ken-marzan-08b044304/" target="_blank">
     <img src="http://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" alt="Dev.to" height="30" width="40" />
   </a>
+    <h1> LinkedIn</h1>
+  </div>
+  <div>
   <a href="https://web.facebook.com/ken.marzan.7" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="30" width="40" />
   </a>
+     <h1> Facebook</h1>
+  </div>
+  <div>
+  
   <a href="mailto:marzanken232@gmail.com">
     <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Email" height="30" width="40" />
   </a>
+   <h1> LinkedIn</h1>
+  </div>
+   
 </p>
 
 ---
