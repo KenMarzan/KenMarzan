@@ -64,14 +64,25 @@
 
 ## 🔹 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenmarzan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; flex-direction: column; width: 100%; gap: 20px;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenmarzan&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kenmarzan&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+    alt="Top Languages"
+    style="width: 100%; max-width: 900px;"
+  />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenmarzan&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kenmarzan&show_icons=true&locale=en&theme=tokyonight" 
+    alt="GitHub Stats"
+    style="width: 100%; max-width: 900px;"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kenmarzan&theme=tokyonight" 
+    alt="GitHub Streak"
+    style="width: 100%; max-width: 900px;"
+  />
+
+</div>
+
