@@ -13,28 +13,26 @@
 
 ---
 
-
 ## 🔹 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ken-marzan-08b044304/" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
-    <br/>
-    <sub>LinkedIn</sub>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+
+  <a href="https://www.linkedin.com/in/ken-marzan-08b044304/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="35" style="margin-right: 10px;" />
+    <span style="font-size: 18px;">LinkedIn</span>
   </a>
 
-  <a href="https://web.facebook.com/ken.marzan.7" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="40" width="40" />
-    <br/>
-    <sub>Facebook</sub>
+  <a href="https://web.facebook.com/ken.marzan.7" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="35" style="margin-right: 10px;" />
+    <span style="font-size: 18px;">Facebook</span>
   </a>
 
-  <a href="mailto:marzanken232@gmail.com" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
-    <br/>
-    <sub>Email</sub>
+  <a href="mailto:marzanken232@gmail.com" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="35" style="margin-right: 10px;" />
+    <span style="font-size: 18px;">Email</span>
   </a>
-</p>
+
+</div>
 
 
 ---
