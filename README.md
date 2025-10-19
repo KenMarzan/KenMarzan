@@ -15,7 +15,7 @@
 
 ## 🔹 Connect with Me
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+<div  align="center" style="display: flex; justify-content: space-between; align-items: center;  width: 100%; items">
 
   <a href="https://www.linkedin.com/in/ken-marzan-08b044304/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="35" style="margin-right: 10px;" />
